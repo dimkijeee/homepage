@@ -136,7 +136,7 @@ li{
 .sidebar_important_dates{
     float: left;
     width: 33%;
-    height: 150px;
+    height: 255px;
     background-color: whitesmoke;    
     line-height: 120px;
     color: darkgrey;
@@ -144,7 +144,7 @@ li{
 }
 
 .info_important_dates{
-    height: 150px;
+    height: 255px;
     width: 100%;
     text-align: left;
     font-size: 18px;
